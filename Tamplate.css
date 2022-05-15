@@ -1,0 +1,83 @@
+h1{
+    color: rgb(133, 78, 158);
+}
+
+table{
+     width: 600px;
+     text-align : center;
+}
+
+.yellow{
+    background-color: rgb(255, 255, 0);
+}
+
+.c1{
+    background-color: rgb(243, 213, 79);
+}
+
+.c2{
+    background-color: rgb(245, 75, 75);
+}
+
+.c3{
+    background-color: rgb(7, 168, 243);
+}
+
+.c4{
+    background-color: rgb(104, 245, 158);
+}
+
+.c5{
+    background-color: rgb(245, 146, 237);
+}
+
+.c6{
+    background-color: rgb(197, 223, 224);
+}
+
+.c7{
+    background-color: rgb(243, 228, 178);
+}
+
+.c8{
+    background-color: rgb(221, 94, 238);
+}
+
+.c9{
+    background-color: rgb(9, 92, 245);
+}
+
+.c10{
+    background-color: rgb(27, 167, 46);
+}
+
+.c11{
+    background-color: rgb(247, 97, 172);
+}
+
+.c12{
+    background-color: rgb(56, 248, 136);
+}
+
+.c13{
+    background-color: rgb(189, 243, 71);
+}
+
+
+.para{
+    color: blue;
+    font-size: 20px;
+    background: rgb(240, 237, 237);
+    text-align: center;
+}
+
+h3{
+    color: red;
+}
+
+.footer{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(10, 243, 68);
+}
